@@ -15,7 +15,7 @@
   Estou me dedicando a programação voltada para o <i>Back-end</i>, atualmente estou aprendendo e construindo automações Web usando a linguagem <i>Python</i>.</p>
 
 <div align="left">
-  <i><h4>My Social Networks:</h4></i>
+  <i><h4>Minhas Redes Sociais:</h4></i>
   
   <a href="#" alt="Whatsapp">
   <a href="https://api.whatsapp.com/send/?phone=%2B5511954537288&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>

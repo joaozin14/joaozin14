@@ -37,7 +37,7 @@
 
 <div align="left">
  
- <h2><i>Linguagens ​​que estou estudando</i></h2>
+ <h2><i>Linguagens ​​que estou estudando e usando atualmente</i></h2>
  
  <img src= "https://skillicons.dev/icons?i=python )](https://skillicons.dev">
 

@@ -6,13 +6,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Seja+bem-vindo!;+Meu+nome+é+João!;" />
 </h1>
 
-<img src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEzOTg2NDUsIm5iZiI6MTcyMTM5ODM0NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE5VDE0MTIyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3N2Y4ZTk1OTE3YzNkOGEwOGM5MDE3OGQ2ODQ3OWEwMzU5ZTE0MjEwMmM1NDI4Yzc0ZjU1M2M0MTgyZjQ4ZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lcIrrD_76ipp60tQvaZZH2U5IumLqjtCZ-agW6m-a_0"
-  min-width="150px" max-width="360px" width="400px"  align="right" alt="Progamador Cartoon">
 
-<p>Olá, meu nome é João Henrique. Estou cursando Análise e Desenvolvimento de Sistemas
-  no Centro Universitário - FAM, estou no 4° semestre do curso atualmente. <br>
-  
-  Estou me dedicando a programação voltada para o <i>Back-end</i>, atualmente estou aprendendo e construindo automações Web usando a linguagem <i>Python</i>.</p>
+<p>Olá, meu nome é João Henrique. Estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário - FAM. Estou no 4° semestre do curso atualmente.</p> 
+<br>
+<p>Estou me dedicando a programação voltada para o <i>Back-end</i>, atualmente estou aprendendo e construindo automações Web usando a linguagem <i>Python</i>.</p>
 
 <div align="left">
   <i><h4>Minhas Redes Sociais:</h4></i>

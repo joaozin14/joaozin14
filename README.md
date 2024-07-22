@@ -8,7 +8,6 @@
 
 
 <p>Olá, meu nome é João Henrique. Estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário - FAM. Estou no 4° semestre do curso atualmente.</p> 
-<br>
 <p>Estou me dedicando a programação voltada para o <i>Back-end</i>, atualmente estou aprendendo e construindo automações Web usando a linguagem <i>Python</i>.</p>
 
 <div align="left">

@@ -21,6 +21,10 @@
      
    <a href="#" alt="Gmail">
    <a href="mailto:joaohms14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+
+   <a href="#" alt="Linkedin">
+   <a href="mailto:www.linkedin.com/in/joao-henrique-8a14ab1a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
  </div> 
 
  <div align="left">

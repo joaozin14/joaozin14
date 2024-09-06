@@ -39,7 +39,7 @@
  
  <h2><i>Linguagens ​​que estou estudando e usando atualmente</i></h2>
  
- <img src= "https://skillicons.dev/icons?i=python,mysql )](https://skillicons.dev">
+ <img src= "https://skillicons.dev/icons?i=python,mysql,html,css)](https://skillicons.dev">
 
  <h2>💻 Softwares e ferramentas</h2>
 

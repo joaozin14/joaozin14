@@ -31,7 +31,12 @@
   <i><h4>Minha Experiência:</h4></i>
   <ul>
    <li>Atualmente estou estagiando na Procuradoria da Fazenda da 3° Região(PGFN3) onde exerço a função de criação de automações Webs necessárias. </li>
+ </div>
 
+ <div>
+  <i><h4>Interesses:</h4></i>
+  <ul>
+   <li>Tenho interesse em me desenvolver e em aprender sobre Cybersegurança, Cloud computing, Automações web, Desenvolvimento Web back-end e front-end.</li>
  </div>
  
 
@@ -39,7 +44,7 @@
  
  <h2><i>Linguagens ​​que estou estudando e usando atualmente</i></h2>
  
- <img src= "https://skillicons.dev/icons?i=python,mysql,html,css)](https://skillicons.dev">
+<img src= "https://skillicons.dev/icons?i=python,js,html,css )](https://skillicons.dev">
 
  <h2>💻 Softwares e ferramentas</h2>
 

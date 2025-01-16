@@ -37,7 +37,7 @@
   <i><h4>Interesses:</h4></i>
   <ul>
    <li>Tenho interesse em me desenvolver e em aprender sobre Cybersegurança, Cloud computing, Automações web, Desenvolvimento Web back-end e front-end.</li>
-   <li>Tenho interesse em me tornar um desenvolvedor Back end aprendendo e auxiliando do lado do servidor.</li>
+   <li>Tenho interesse em me tornar um desenvolvedor Back-end aprendendo e auxiliando do lado do servidor.</li>
  </div>
  
 

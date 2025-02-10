@@ -8,7 +8,7 @@
 
 
 <p>💻Olá! Meu nome é João Henrique. Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (5º semestre). Apaixonado por tecnologia e inovação, estou sempre buscando aprimorar minhas habilidades e compartilhar conhecimento.</p> 
-<p>🚀 Atualmente, sou estagiário na PGNF3 - Procuradoria Geral da Fazenda Nacional da 3ª Região , onde atualmente realizo o desenvolvimento e manutenção de RPA Web e automação de processos, utilizando Python e suas bibliotecas.</p>
+<p>📌Atualmente, estou focado em me tornar um Desenvolvedor Back-end Júnior, aprimorando minhas habilidades em Programação, Framework, Banco de dados, Cybersecurity e Infraestrutura.</p>
 
 <div align="left">
   <i><h4>Minhas Redes Sociais:</h4></i>
@@ -30,7 +30,7 @@
  <div align="left">
   <i><h4>📌Minha Experiência:</h4></i>
   <ul>
-   <li>Atualmente, sou estagiário na Procuradoria Geral da Fazenda Nacional da 3ª Região (PGFN3) , onde atualmente não são permitidos desenvolvimento e manutenção de RPA Web . Minha rotina envolve automação de processos, otimização de fluxos de trabalho e suporte a sistemas, utilizando Python e outras tecnologias.</li>
+   <li>Atualmente, sou estagiário na Procuradoria Geral da Fazenda Nacional da 3ª Região (PGFN3) , onde atualmente são permitidos desenvolvimento e manutenção de RPA Web . Minha rotina envolve automação de processos, otimização de fluxos de trabalho e suporte a sistemas, utilizando Python e outras tecnologias.</li>
  </div>
 
  <div>

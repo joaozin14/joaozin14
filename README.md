@@ -30,14 +30,14 @@
  <div align="left">
   <i><h4>📌Minha Experiência:</h4></i>
   <ul>
-   <li>Atualmente estou estagiando na Procuradoria da Fazenda da 3° Região(PGFN3) onde crio e faço a manutenção de RPAs Webs necessárias. </li>
+   <li>Atualmente, sou estagiário na Procuradoria Geral da Fazenda Nacional da 3ª Região (PGFN3) , onde atualmente não são permitidos desenvolvimento e manutenção de RPA Web . Minha rotina envolve automação de processos, otimização de fluxos de trabalho e suporte a sistemas, utilizando Python e outras tecnologias.</li>
  </div>
 
  <div>
-  <i><h4>Interesses:</h4></i>
+  <i><h4>🚀Interesses e Objetivos:</h4></i>
   <ul>
-   <li>Tenho interesse em me desenvolver e em aprender sobre Cybersegurança, Cloud computing, Automações web, Desenvolvimento Web back-end e front-end.</li>
-   <li>Tenho interesse em me tornar um desenvolvedor Back-end aprendendo e auxiliando do lado do servidor.</li>
+   <li>Tenho grande interesse em Cibersegurança, Cloud Computing, Automações Web e Desenvolvimento Web (Back-end e Front-end). Meu objetivo é evoluir constantemente, adquirindo conhecimentos que me tornem um desenvolvedor altamente capacitado.</li>
+   <li>Atualmente, estou focado em me tornar um Desenvolvedor Back-end , aprimorando minhas habilidades em tecnologias do lado do servidor e contribuindo com soluções com eficiências e escaláveis.</li>
  </div>
  
 

@@ -7,8 +7,8 @@
 </h1>
 
 
-<p>Olá, meu nome é João Henrique. Estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário - FAM. Estou no 5° semestre do curso atualmente.</p> 
-<p>Estou me dedicando a programação <i>Back-end</i>, atualmente estou aprendendo e construindo RPAs Web usando a linguagem <i>Python</i>.</p>
+<p>💻Olá! Meu nome é João Henrique. Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (5º semestre). Apaixonado por tecnologia e inovação, estou sempre buscando aprimorar minhas habilidades e compartilhar conhecimento.</p> 
+<p>🚀 Atualmente, sou estagiário na PGNF3 - Procuradoria Geral da Fazenda Nacional da 3ª Região , onde atualmente realizo o desenvolvimento e manutenção de RPA Web e automação de processos, utilizando Python e suas bibliotecas.</p>
 
 <div align="left">
   <i><h4>Minhas Redes Sociais:</h4></i>

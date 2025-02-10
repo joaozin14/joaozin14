@@ -39,6 +39,13 @@
    <li>Tenho grande interesse em Cibersegurança, Cloud Computing, Automações Web e Desenvolvimento Web (Back-end e Front-end). Meu objetivo é evoluir constantemente, adquirindo conhecimentos que me tornem um desenvolvedor altamente capacitado.</li>
    <li>Atualmente, estou focado em me tornar um Desenvolvedor Back-end , aprimorando minhas habilidades em tecnologias do lado do servidor e contribuindo com soluções com eficiências e escaláveis.</li>
  </div>
+
+ <div>
+   <i><h4>📩 Vamos conectar?</h4></i>
+   <ul>
+     <li>Estou sempre aberto a novas oportunidades e trocas de conhecimento na área de tecnologia!</li>
+   </ul>
+ </div>
  
 
 <div align="left">

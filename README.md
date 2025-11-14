@@ -7,8 +7,8 @@
 </h1>
 
 
-<p>💻Olá! Meu nome é João Henrique. Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (5º semestre). Apaixonado por tecnologia e inovação, estou sempre buscando aprimorar minhas habilidades e compartilhar conhecimento.</p> 
-<p>🚀 Atualmente, estou focado em me tornar um Desenvolvedor Back-end Júnior, aprimorando minhas habilidades em Programação, Framework, Banco de dados, Cybersecurity e Infraestrutura.</p>
+<p>💻Olá! Meu nome é João Henrique. Formado em Análise e Desenvolvimento de Sistemas no Centro Universitário FAM e cursando Engenharia da Computação na Univest(1° Semestre). Me considero apaixonado por tecnologia e inovação, estou sempre buscando aprimorar minhas habilidades e compartilhar conhecimento.</p> 
+<p>🚀 Atualmente, estou focado em me tornar um Desenvolvedor Front-End e automações Júnior, aprimorando minhas habilidades em Programação, Framework, Banco de dados e Cybersecurity.</p>
 
 <div align="left">
   <i><h4>Minhas Redes Sociais:</h4></i>

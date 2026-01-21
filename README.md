@@ -4,9 +4,11 @@
 
 # 🚀 Olá, meu nome é João Henrique - Software Developer 
 
+<br>
+
 ## Sobre mim
 
-✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é me desenvolver na vasta área da TI, misturando arte, trabalho duro e código para criar experiências únicas. ✨
 
 ## Habilidades Tecnológicas
 

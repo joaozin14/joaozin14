@@ -25,7 +25,7 @@
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode-dark,ubuntu-dark)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,ubuntu)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 

@@ -41,7 +41,7 @@
 ## Vamos Conectar!
 
 <a href="https://www.linkedin.com/in/joao-henrique-moraes-da-silva" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkdln" alt="LinkedIn">
 </a>
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)

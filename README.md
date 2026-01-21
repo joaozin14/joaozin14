@@ -52,6 +52,6 @@
   <a href="https://github.com/joaozin14/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin14&layout=donut" 
          alt="Top Langs" 
-         width="500">
+         width="700">
   </a>
 </div>

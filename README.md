@@ -41,6 +41,7 @@
 ## Vamos Conectar!
 
 [![Instagram](https://img.shields.io/badge/-{João_Henrique}-purple?style=flat-square&logo=Instagram&logoColor=white&link={[Link](https://www.instagram.com/joaohms14/)})]({[Link](https://www.instagram.com/joaohms14/)})
-<i class="ci ci-linkedin"></i>
+[![Linkedln]([[https://img.shields.io/badge/-{João_Henrique}-purple?style=flat-square&logo=Instagram&logoColor=white&link={[Link](https://www.instagram.com/joaohms14/)})]({[Link](https://www.instagram.com/joaohms14/](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg))})
+
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)

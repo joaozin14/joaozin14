@@ -45,4 +45,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaohms14/)](https://www.instagram.com/joaohms14/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-henrique-moraes-da-silva/)](https://www.linkedin.com/in/joao-henrique-moraes-da-silva/)
 
+<br>
+
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)

@@ -10,6 +10,8 @@
 
 ✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é me desenvolver na vasta área da TI, misturando arte, trabalho duro e código para criar experiências únicas. ✨
 
+<br>
+
 ## Habilidades Tecnológicas
 
 💻 Aqui estão algumas das tecnologias que eu domino:
@@ -29,7 +31,6 @@
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
-## Projetos Criativos
 
 <br>
 

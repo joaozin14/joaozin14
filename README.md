@@ -40,7 +40,6 @@
 
 ## Vamos Conectar!
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
-
+<a href="www.linkedin.com/in/joao-henrique-moraes-da-silva">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)

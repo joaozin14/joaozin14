@@ -48,6 +48,4 @@
 <br>
 <br>
 
-<div align="center">
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin14&layout=donut-vertical)](https://github.com/joaozin14/github-readme-stats)" alt="Linguagens usadas">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin14&layout=donut-vertical)](https://github.com/joaozin14/github-readme-stats)

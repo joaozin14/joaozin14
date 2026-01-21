@@ -53,6 +53,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin14&layout=donut" 
          alt="Top Langs" 
          width="600"
-         height="400">
+         height="300">
   </a>
 </div>

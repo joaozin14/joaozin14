@@ -48,4 +48,8 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin14&layout=donut-vertical)](https://github.com/joaozin14/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/joaozin14/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin14&layout=donut-vertical" alt="Top Langs">
+  </a>
+</div>

@@ -47,4 +47,4 @@
 
 <br>
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasEllen26&layout=donut-vertical)](https://github.com/joaozin14/github-readme-stats)

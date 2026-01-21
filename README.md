@@ -50,6 +50,6 @@
 
 <div align="center">
   <a href="https://github.com/joaozin14/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin14&layout=donut-vertical" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin14&layout=donut" alt="Top Langs">
   </a>
 </div>

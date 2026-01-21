@@ -46,5 +46,8 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-henrique-moraes-da-silva/)](https://www.linkedin.com/in/joao-henrique-moraes-da-silva/)
 
 <br>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin14&layout=donut-vertical)](https://github.com/joaozin14/github-readme-stats)
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin14&layout=donut-vertical)](https://github.com/joaozin14/github-readme-stats)
+</div>

@@ -40,8 +40,7 @@
 
 ## Vamos Conectar!
 
-<a href="https://www.linkedin.com/in/joao-henrique-moraes-da-silva" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="LinkedIn">
-</a>
+[![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
+[![Linkedln](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Linkedln&logoColor=white&link={www.linkedin.com/in/joao-henrique-moraes-da-silva})]({www.linkedin.com/in/joao-henrique-moraes-da-silva})
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)

@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, eu sou o(a) <a href="https://github.com/SEU_USUARIO">Seu Nome</a> 👋
+  Olá, eu sou o(a) <a href="https://github.com/joaozin14">João Henrique</a> 👋
 </h1>
 
 <p align="center">
@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/joao-henrique-moraes-da-silva/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@example.com">
+  <a href="mailto:joaohms14@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/joaozin14">
     <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&label=Seguidores&color=181717" />
   </a>
 </p>

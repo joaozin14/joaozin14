@@ -67,7 +67,7 @@
 ### 📌 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/joaozin14/Projeto-IAFOOD">
+  <a href="https://github.com/joaozin14/Projeto-IAFOOD.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaozin14&repo=Projeto-IAFOOD&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/joaozin14/PROJETO-FLASH-ENVIO">

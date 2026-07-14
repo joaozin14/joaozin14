@@ -1,70 +1,101 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
-</div>
+<h1 align="center">
+  Olá, eu sou o(a) <a href="https://github.com/SEU_USUARIO">Seu Nome</a> 👋
+</h1>
 
-# 🚀 Olá, meu nome é João Henrique - Back-end Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Dev+Python+%7C+Back-end;Automa%C3%A7%C3%A3o+de+Processos+(RPA);Web+Scraping+%7C+Selenium+%7C+Scrapy;Sempre+automatizando+algo+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&label=Seguidores&color=181717" />
+  </a>
+</p>
 
-## Sobre mim
+---
 
-✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é me desenvolver na vasta área da TI, misturando arte, trabalho duro e código para criar experiências únicas. ✨
+### 🧠 Sobre mim
 
-<br>
+- 🐍 Desenvolvedor(a) **Python** focado(a) em **back-end** e **automação de processos**
+- 🤖 Curto transformar tarefas repetitivas em scripts que rodam sozinhos
+- 🕷️ Trabalho com **web scraping**, **RPA** e integração de sistemas via API
+- ⚙️ Sempre em busca de deixar processos mais rápidos, confiáveis e escaláveis
+- 📫 Bora trocar uma ideia? Me chama no LinkedIn ou por e-mail!
 
-## Habilidades Tecnológicas
+---
 
-💻 Aqui estão algumas das tecnologias que eu domino:
+### 🛠️ Stack & Ferramentas
 
--  Linguagens de Programação: 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
-    [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+---
 
-    [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
-- Dados: 
+### 📊 Estatísticas do GitHub
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,ubuntu)](https://skillicons.dev)
-- Desenvolvimento Web:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+</p>
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true" />
+</p>
 
-<br>
+---
 
-## Vamos Criar Algo Incrível! 💫
+### 🏆 Troféus
 
-💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-<br>
+---
 
-## Vamos Conectar!
+### 📌 Projetos em destaque
 
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaohms14/)](https://www.instagram.com/joaohms14/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-henrique-moraes-da-silva/)](https://www.linkedin.com/in/joao-henrique-moraes-da-silva/)
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO/nome-do-projeto-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=nome-do-projeto-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO/nome-do-projeto-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=nome-do-projeto-2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-<br>
-<br>
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api?username=joaozin14&theme=dark&hide_border=false&include_all_commits=true"
-          alt="Github Stats"
-        />
-      </td>
-      <td>
-        <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-          alt="Github Stats"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=2E9EF7" />
+</p>
+
+<p align="center"><i>⚡ Automatizando o mundo, um script Python de cada vez.</i></p>

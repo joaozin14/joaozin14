@@ -84,8 +84,8 @@
 ### 📌 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/nome-do-projeto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=nome-do-projeto-1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/joaozin14/Projeto-IAFOOD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaozin14&repo=Projeto-IAFOOD&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/SEU_USUARIO/nome-do-projeto-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=nome-do-projeto-2&theme=tokyonight&hide_border=true" />
@@ -95,7 +95,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=2E9EF7" />
+  <img src="https://komarev.com/ghpvc/?username=joaozin14&style=for-the-badge&color=2E9EF7" />
 </p>
 
 <p align="center"><i>⚡ Automatizando o mundo, um script Python de cada vez.</i></p>

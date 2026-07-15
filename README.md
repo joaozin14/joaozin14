@@ -67,14 +67,16 @@
 ### 📌 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/joaozin14/Projeto-IAFOOD.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaozin14&repo=Projeto-IAFOOD&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/joaozin14/Projeto-IAFOOD">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=Projeto-IAFOOD&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/joaozin14/PROJETO-FLASH-ENVIO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaozin14&repo=PROJETO-FLASH-ENVIO&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=PROJETO-FLASH-ENVIO&theme=tokyonight&hide_border=true" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/joaozin14/Cadastro-de-Usuarios">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaozin14&repo=Cadastro-de-Usuarios&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=Cadastro-de-Usuarios&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 

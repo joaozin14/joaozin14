@@ -72,22 +72,22 @@
 </p>
 <p align="center">
   <a href="https://github.com/joaozin14/PROJETO-FLASH-ENVIO">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=PROJETO-FLASH-ENVIO&theme=tokyonight&hide_border=true&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=PROJETO-FLASH-ENVIO&theme=tokyonight&hide_border=true&v=3" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/joaozin14/Cadastro-de-Usuarios">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=Cadastro-de-Usuarios&theme=tokyonight&hide_border=true&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=Cadastro-de-Usuarios&theme=tokyonight&hide_border=true&v=3" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/joaozin14/Gerador-de-Senhas">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=Gerador-de-Senhas&theme=tokyonight&hide_border=true&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=Gerador-de-Senhas&theme=tokyonight&hide_border=true&v=3" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/joaozin14/PGFN-Projeto-Excluir">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=PGFN-Projeto-Excluir&theme=tokyonight&hide_border=true&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=PGFN-Projeto-Excluir&theme=tokyonight&hide_border=true&v=3" />
   </a>
 </p>
 

@@ -87,7 +87,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/joaozin14/PGFN-Projeto-Excluir">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=PGFN-Projeto-Excluir&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=PGFN-Projeto-Excluir&theme=tokyonight&hide_border=true&v=2" />
   </a>
 </p>
 

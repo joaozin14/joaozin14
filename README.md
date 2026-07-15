@@ -96,6 +96,11 @@
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=PGFN-Projeto-Excluir&theme=tokyonight&hide_border=true&v=3" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/joaozin14/Projeto-automacao_arquivos">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=Projeto-automacao_arquivos&theme=tokyonight&hide_border=true&v=3" />
+  </a>
+</p>
 
 ---
 

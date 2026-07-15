@@ -75,8 +75,6 @@
   <a href="https://github.com/joaozin14/Projeto-IAFOOD">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=Projeto-IAFOOD&theme=tokyonight&hide_border=true&v=2" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/joaozin14/PROJETO-FLASH-ENVIO">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=joaozin14&repo=PROJETO-FLASH-ENVIO&theme=tokyonight&hide_border=true&v=3" />
   </a>

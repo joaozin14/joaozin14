@@ -101,7 +101,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaozin14&style=for-the-badge&color=2E9EF7" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaozin14.joaozin14&style=for-the-badge&color=2E9EF7" />
 </p>
-
 <p align="center"><i>⚡ Automatizando o mundo, um script Python de cada vez.</i></p>
